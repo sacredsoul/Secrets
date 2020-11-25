@@ -1,5 +1,5 @@
 # Secrets
-LSD's いろいろな 愿望
+LSD's いろいろな 願望
 
 ---
-坚持提交打卡commit💪💪
+坚持提交 **打卡commit** 💪💪
